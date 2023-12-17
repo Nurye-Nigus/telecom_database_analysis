@@ -1,1 +1,1 @@
-n
+the MSISDNNumber, Satisfaction score and claster clumens are exported in csv form attached above
